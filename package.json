@@ -1,0 +1,12 @@
+{
+  "name": "codescreen-javascript-films-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "lodash": "^4.17.21",
+    "mocha": "^8.2.1"
+  },
+  "type": "module"
+}
